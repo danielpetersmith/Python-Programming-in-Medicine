@@ -2,5 +2,7 @@
 
 # Python-Programming-in-Medicine
 Welcome!
-This is a tutorial series for medical students hoping to learn Python Programming in a medical context.
+This is where I will compile specific lesson resources for the 'Python Programming in Medicine' tutorial series (which is delivered for medical students at UCL)
 Please click 'open in colab' to use these resources online.
+
+
