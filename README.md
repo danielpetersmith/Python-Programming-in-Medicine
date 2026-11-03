@@ -4,7 +4,7 @@ This resource is currently a work in progress.
 
 # Python-Programming-in-Medicine
 Welcome!
-This is where I will compile specific lesson resources for the 'Python Programming in Medicine' tutorial series (which is delivered for medical students at UCL)<br>
+This is where I will compile specific lesson resources for the free 'Python Programming in Medicine' tutorial series (which is delivered for medical students at UCL)<br>
 Please click 'open in colab' to use these resources online.
 
 
